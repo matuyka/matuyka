@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matuyka
-- 👀 I’m interested in testing.
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m interested in software testing.
+- 🌱 I’m currently learning JavaScript & Cypress.
 - 💞️ I’m looking to collaborate on QA testing.
 - 📫 How to reach me: zifcakova.martina@gmail.com
 
